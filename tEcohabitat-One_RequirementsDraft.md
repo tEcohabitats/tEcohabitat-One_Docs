@@ -98,6 +98,6 @@ tEcoHabitat-One is not just a building — it is a **living system**. This requi
 ---
 
 ## 5. Attachments
-
-!(/assets/tEcohabitat-One_3Dprototype.png)
+![](/assets/tEcohabitat-One_3Dprototype.png )
+![](/assets/tEchohabita-One Functional diagram.jpg )
 
