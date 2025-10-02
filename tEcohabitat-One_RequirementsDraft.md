@@ -97,7 +97,7 @@ tEcoHabitat-One is not just a building — it is a **living system**. This requi
 
 ---
 
-## 5. attachments
+## 5. Attachments
 
-![This is an alt text.](/assets/Habitat3esquema.png "This is a sample image.")
+!(/assets/tEcohabitat-One_3Dprototype.png)
 
