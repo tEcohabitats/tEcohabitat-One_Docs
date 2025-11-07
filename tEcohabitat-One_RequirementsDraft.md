@@ -18,7 +18,7 @@ tEcoHabitat-One will integrate advanced technologies in automation, renewable en
 
 - **Population:** 150 residents, max. 200 (based on Dunbar’s number to ensure cohesive community size).  
 - **Core Services:** Provision of basic human needs: food, water, shelter, air, health, safety.  
-- **Sustainability:** Fully automated, zero waste, renewable energy-powered, fully off-grid.  
+- **Sustainability:** Fully automated, zero waste, renewable energy-powered, fully off-grid, Closed Loop Recycling.  
 - **Technology Role:** Automation, robotics, and AI to eliminate daily survival burdens.  
 - **Community Goal:** Safe, healthy, creative, and resilient human-scale society.  
 
