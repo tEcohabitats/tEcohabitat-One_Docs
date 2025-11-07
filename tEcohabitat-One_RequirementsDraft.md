@@ -108,7 +108,8 @@ tEcoHabitat-One will integrate advanced technologies in automation, renewable en
 
 ### 3.8 Food Production  
 - **Requirements:**  
-  - Autonomous food production  
+  - Autonomous food production
+  - Bioregenerative Life Support Systems
   - Occupy as little land as possible  
   - Vegan only — no animal suffering allowed  
   - Horizontal farming if needed  
